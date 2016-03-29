@@ -2,6 +2,7 @@ name: danlish.com
 favicon: null
 layout_spectrum: 0.50279
 typography_spectrum: 0.25511
+title: danlish.com
 cta:
   domain: null
   bucket: null
