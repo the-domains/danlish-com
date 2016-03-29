@@ -1,7 +1,7 @@
 name: danlish.com
 favicon: null
-layout_spectrum: 0.50279
-typography_spectrum: 0.25511
+layout_spectrum: 0.75294
+typography_spectrum: 0.50288
 title: danlish.com
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fffffd'
-    - '#1b0007'
-    - '#ddd09b'
-    - '#a99977'
-    - '#756653'
+    - '#ffffff'
+    - '#c5c5c5'
+    - '#2e2d2b'
+    - '#b18f73'
+    - '#ab5e24'
   brandStrength: 0.5
   lightness: 0.5
   saturation: 0.5
